@@ -1,3 +1,3 @@
 # solutions
 
-This the collection of my solved HackerRank challenges.
+This is the collection of my solved HackerRank challenges.
